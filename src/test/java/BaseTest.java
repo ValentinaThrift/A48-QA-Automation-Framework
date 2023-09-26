@@ -11,7 +11,8 @@ import java.util.UUID;
 public abstract class BaseTest {
 
     WebDriver driver;
-    String url = "testpro.io";
+    String url = "https://qa.koel.app/#!/home";
+    String urlHome = "https://qa.koel.app/#!/home";
 
     @BeforeSuite
     static void setupClass() {
