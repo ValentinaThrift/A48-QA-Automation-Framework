@@ -9,6 +9,7 @@ import org.testng.annotations.Test;
 import java.time.Duration;
 
 public class LoginTests extends BaseTest {
+
     @Test(groups = "smoke")
     public void loginEmailPasswordTest() throws InterruptedException {
 

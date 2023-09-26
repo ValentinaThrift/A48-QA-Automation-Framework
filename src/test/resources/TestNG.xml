@@ -7,6 +7,7 @@
         <classes>
             <class name="LoginTests"/>
             <class name="ProfileTest"/>
+            <class name="RegistrationNavTest"/>
         </classes>
     </test>
 
